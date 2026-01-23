@@ -1,4 +1,4 @@
-## Hi there 👋
+## Joł there
 
 <!--
 **Nbartek/Nbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats.vercel.app/api/top-langs/?username=Nbartek&layout=compact&langs_count=6

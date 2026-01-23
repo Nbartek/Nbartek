@@ -1,17 +1,20 @@
 ## Joł there
 
-<!--
-**Nbartek/Nbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the greatest Java developer alive [^1]. I am JAVELOPER.
+[^1]: At least in one meter radius
+---
+## Here are my top languages as a professional Jeveloper:          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nbartek&layout=compact&langs_count=6)
 
-Here are some ideas to get you started:
+Im mainly focused on mobile development, mostly android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Nbartek&layout=compact&langs_count=6)
+
+## Tech Stack
+- Languages: C, C++, Java, Kotlin, TypeScript
+- Frameworks: SpringBoot, React Native, Expo
+- Tools: Git, Linux, Jetpack compose
+
+
+
+
+

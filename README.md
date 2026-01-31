@@ -11,7 +11,7 @@ Im mainly focused on mobile development, mostly android.
 
 ## Tech Stack
 - Languages: C, C++, Java, Kotlin, TypeScript, SQL
-- Frameworks: SpringBoot, React Native, Expo
+- Frameworks: SpringBoot, React Native, Expo, JavaFX
 - Tools: Git, Linux, Jetpack compose
 
 

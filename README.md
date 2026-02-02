@@ -4,7 +4,7 @@ I am the greatest Java developer alive [^1]. I am JAVELOPER.
 [^1]: At least in one meter radius
 ---
 ## Here are my top languages as a professional Jeveloper:          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nbartek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nbartek)](https://github.com/anuraghazra/github-readme-stats)  
 Im mainly focused on mobile development, mostly android.
 
 
